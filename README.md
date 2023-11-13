@@ -1,6 +1,5 @@
 # Exam-App
-Created this app for my CA-3 semester 7 of Android app development course CSE-226.\n
-using SQLite as database to store data.
+Created this app for my CA-3 semester 7 of Android app development course CSE-226. SQLite is used as database.
 <img width="278" alt="Screenshot 2023-11-13 210243" src="https://github.com/viveksahani/Exam-App/assets/94420688/6f0abe08-feb5-4609-84a5-f5f4f9144f0f">
 <img width="277" alt="Screenshot 2023-11-13 210433" src="https://github.com/viveksahani/Exam-App/assets/94420688/5add3703-8a72-4787-b271-69020905e58d">
 <img width="278" alt="Screenshot 2023-11-13 210321" src="https://github.com/viveksahani/Exam-App/assets/94420688/ae8e978e-dcea-4dba-bc80-025348874141">
