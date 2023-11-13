@@ -10,5 +10,6 @@
 <img width="276" alt="Screenshot 2023-11-13 210624" src="https://github.com/viveksahani/Exam-App/assets/94420688/0c3b1c41-b466-4310-9009-c3d9b475d325">
 <img width="278" alt="Screenshot 2023-11-13 210640" src="https://github.com/viveksahani/Exam-App/assets/94420688/bfb3e4bf-5cca-4f8a-a58b-9f2ebbe93052">
 <img width="277" alt="Screenshot 2023-11-13 210652" src="https://github.com/viveksahani/Exam-App/assets/94420688/a0a07382-1e9e-4cc9-a4c1-73b411b85ae8">
-<img width="278" alt="Screenshot 2023-11-13 210706" src="https://github.com/viveksahani/Exam-App/assets/94420688/3c8a2588-0cc3-4479-8801-30ef9f323a86">
+<img width="278" alt="Screenshot 2023-11-13 210706" src="https://github.com/viveksahani/Exam-App/assets/94420688/3c8a2588-0cc3-4479-8801-30ef9f323a86"><img width="275" alt="Screenshot 2023-11-13 210821" src="https://github.com/viveksahani/Exam-App/assets/94420688/219c86ee-0b15-47d2-8e15-078e72e3bed3">
+
 <img width="272" alt="Screenshot 2023-11-13 210829" src="https://github.com/viveksahani/Exam-App/assets/94420688/3b1adba3-bc90-4054-95c2-1d1ad239c9b4">
